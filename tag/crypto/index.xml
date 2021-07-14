@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto | Andrey Ruzhanskiy</title>
+    <link>https://setahero.github.io/tag/crypto/</link>
+      <atom:link href="https://setahero.github.io/tag/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <description>crypto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://setahero.github.io/media/icon_hu788efe827cf0b7b59a2d7f4ccce12eee_145874_512x512_fill_lanczos_center_2.png</url>
+      <title>crypto</title>
+      <link>https://setahero.github.io/tag/crypto/</link>
+    </image>
+    
+    <item>
+      <title>Reverse engineering of Tor&#39;s key agreement protocol</title>
+      <link>https://setahero.github.io/project/tors-key-agreement/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://setahero.github.io/project/tors-key-agreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN.ON Client Application Extension</title>
+      <link>https://setahero.github.io/project/anon-client-extension/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://setahero.github.io/project/anon-client-extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk assessment and evaluation of ORAN</title>
+      <link>https://setahero.github.io/project/risk_assasment/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://setahero.github.io/project/risk_assasment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards protection of availability in 5G-Networks</title>
+      <link>https://setahero.github.io/project/diplom-thesis/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://setahero.github.io/project/diplom-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN.ON Server Application Extension</title>
+      <link>https://setahero.github.io/project/anon-server-extension/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://setahero.github.io/project/anon-server-extension/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
